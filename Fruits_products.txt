@@ -1,0 +1,20 @@
+fruitName: Tembikai
+fruitID: 1
+Price per kg: 10
+
+fruitName: Buah Naga
+fruitID: 2
+Price per kg: 9
+
+fruitName: Pisang
+fruitID: 3
+Price per kg: 7
+
+fruitName: Ciku
+fruitID: 4
+Price per kg: 6
+
+fruitName: Anggur
+fruitID: 5
+Price per kg: 12
+

@@ -1,0 +1,20 @@
+MeatName: Ayam
+meatID: 1
+Price per kg: 9
+
+MeatName: Kambing
+meatID: 2
+Price per kg: 20
+
+MeatName: Lembu
+meatID: 3
+Price per kg: 17
+
+MeatName: Itik
+meatID: 4
+Price per kg: 14
+
+MeatName: Arnab
+meatID: 5
+Price per kg: 16
+

@@ -1,0 +1,20 @@
+VegetableName: Terung
+VegetableID: 1
+Price per kg: 4
+
+VegetableName: Tomato
+VegetableID: 2
+Price per kg: 3
+
+VegetableName: Kobis
+VegetableID: 3
+Price per kg: 2
+
+VegetableName: Sawi
+VegetableID: 4
+Price per kg: 2
+
+VegetableName: Bayam
+VegetableID: 5
+Price per kg: 3
+
